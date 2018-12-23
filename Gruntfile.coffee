@@ -40,7 +40,7 @@ module.exports = (grunt) ->
 
   grunt.registerTask 'server', "Run server", () ->
     done = @async()
-    server = spawn("python", ["-m", "SimpleHTTPServer", "8182"])
+    server = spawn("python3", ["-m", "http.server", "8182"])
     done(true)
 
     server.stdout.on 'data', (data) ->
