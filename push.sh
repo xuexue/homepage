@@ -1,2 +1,2 @@
-scp *.html *.css *.png lisa@dataincolour.com:homepage/
+scp *.html *.css *.png *.pdf lisa@dataincolour.com:homepage/
 
