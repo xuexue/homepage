@@ -9,6 +9,21 @@ html
         .section
           h1 This is the homepage of Lisa Zhang.
 
+          .tab 
+            a(href="#teaching") Teaching
+          .tab  .
+          .tab 
+            a(href="#projects") Project Courses
+          .tab  .
+
+          .tab 
+            a(href="#publications") Publications
+          .tab  .
+          .tab 
+            a(href="#old") Old Stuff
+          .tab  .
+          .tab 
+            a(href="#contact") Contact
 
 
         .section
@@ -39,132 +54,93 @@ html
 
         .section
 
-          h2 Previous Teaching
+          a(name="teaching")
+            h2 Teaching
+
+          p I am not teaching any courses in the summer 2020 term.
+        
+
+          h3 Past courses and archived course websites
 
           ul
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/321/", target="_blank") CSC321 Neural Networks and Machine Learning
-              |  Winter 2020, University of Toronto Mississauga
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/338/", target="_blank") CSC338 Numerical Methods
-              |  Winter 2020, University of Toronto Mississauga
+            li CSC321 Neural Networks and Machine Learning
+              ul
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/321/", target="_blank") Winter 2020 (UTM)
+            li CSC338 Numerical Methods
+              ul
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/338/", target="_blank") Winter 2020 (UTM)
+                li 
+                  a(href="https://www.cs.toronto.edu/~lczhang/csc338_20191/", target="_blank") Winter 2019 (UTM)
+            li CSC324 Programming Languages
+              ul
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/324/", target="_blank") Fall 2019 (UTM)
+                li Fall 2018 (UTM) with
+                   |  
+                   a(href="http://www.danielzingaro.com/", target="_blank") Daniel Zingaro
 
+            li CSC290 Communication Skills for Computer Scientists
+              ul
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/290/", target="_blank") Fall 2019 (UTM)
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/csc290_20191/", target="_blank") Winter 2019 (UTM)
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/csc290_20189/", target="_blank") Fall 2018 (UTM)
 
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/324/", target="_blank") CSC324 Programming Languages
-              |  Fall 2019, University of Toronto Mississauga
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/290/", target="_blank") CSC290 Communication Skills for Computer Science
-              |  Fall 2019, University of Toronto Mississauga
-
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/360/", target="_blank") APS360 Fundamentals of AI
-              |  Summer 2019, University of Toronto
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/csc290_20191/", target="_blank") CSC290 Communication Skills for Computer Science
-              |  Winter 2019, University of Toronto Mississauga
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/csc338_20191/", target="_blank") CSC338 Numerical Methods
-              |  Winter 2019, University of Toronto Mississauga
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/aps360_20191/", target="_blank") APS360 Fundamentals of AI
-              |  Winter 2019, University of Toronto
-            li
-              u CSC324 Programming Languages
-              |  Fall 2018, University of Toronto Mississauga
-              |  (with
-              |  
-              a(href="http://www.danielzingaro.com/", target="_blank") Daniel Zingaro
-              | )
-
-            li
-              a(href="https://www.cs.toronto.edu/~lczhang/csc290_20189/", target="_blank") CSC290 Communication Skills for Computer Science
-              |  Fall 2018, University of Toronto Mississauga
-
-            li
-              u CSC108 Introduction to Programming
-              |  Summer 2018, University of Toronto
-              |  (with Mark Kazakevich)
-
-            li
-              a(href="http://www.teach.cs.toronto.edu/~csc411h/winter/", target="_blank") CSC411/2515 Introduction to Machine Learning
-              |  Winter 2018, University of Toronto
-              |  (with
-              |  
-              a(href="http://www.cs.toronto.edu/~guerzhoy/", target="_blank") Michael Guerzhoy
-              | )
-
-        //
-            .section
-              h2 Bragging Bio
-
-              p
-                span I had a recent
-                |  
-                a(href="https://papers.nips.cc/paper/7445-neural-guided-constraint-logic-programming-for-program-synthesis") publication
-                |  
-                span NeurIPS 2018.
-
-              p
-                | I 
-                a(href='https://spark-summit.org/east-2016/events/using-graphx-pregel-on-browsing-history-to-discover-purchase-intent/', target='_blank') gave a talk
-                | at the Spark Summit East 2016 conference in New York.
-
-              p.
-                In 2011, I founded a startup, Polychart. In 2012, I rejected an
-                (non-trivial) acquisition offer,
-                instead opting for a break-up of the entire
-                team.  In 2013, with a re-built team, we were one of five companies
-                in the ExtremeStartups accelerator. In late 2013 Polychart
-                was open sourced.
-              p
-                span.
-                  While studying pure math at University of Waterloo,
-                  I scored 33 points on the Putnam math contest (where median score
-                  is 0 most years).&nbsp;
-                span.
-                  Sixteen (16) months of my undergrad was spent in California on
-                  internships at companies Facebook, ContextLogic (Wish), and Tagged.
-                  I&nbsp;
-                a(href='https://www.facebook.com/notes/facebook-data-team/whats-on-your-mind/477517358858', target='_blank') wrote on the Facebook Data Science blog.
-
-
-              p
-                span.
-                  A 
-                a(href='http://www.lisazhang.ca/2009/12/elevator-algorithms.html', target='_blank').
-                  few 
-                a(href='http://www.lisazhang.ca/2010/12/things-i-learned.html', target='_blank').
-                 blog 
-                a(href='http://www.lisazhang.ca/2011/12/galois-theory-in-1500-words.html', target='_blank').
-                 posts 
-                span.
-                  that I wrote have gone on the front page of Hacker News.
-
-        //
-            .section
-              h2 Talks and Workshops
-              p
-                span
-                  b.
-                    Spark Summit East (February 2016)&nbsp;
-                span
-                  a(href='https://spark-summit.org/east-2016/events/using-graphx-pregel-on-browsing-history-to-discover-purchase-intent/', target='_blank').
-                    Using GraphX/Pregel on Browsing History to Discover Purchase Intent
-
-              p
-                span
-                  b.
-                    Data Visualization Workshop, Huymber College (December 2014).
-                span.
-                  &nbsp;
-                  An 8-hour data visualization workshop for students in the Research
-                  Analyst post-graduate program
-
+            li APS360 Fundamentals of AI
+              ul
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/360/", target="_blank") Summer 2019 (St. George)
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/aps360_20191/", target="_blank") Winter 2019 (St. George)
+            li CSC108 Introduction to Programming
+              ul
+                li Summer 2018 (St. George) with Mark Kazakevich
+            li CSC411/2515 Introduction to Machine Learning
+              ul
+                li 
+                  a(href="http://www.teach.cs.toronto.edu/~csc411h/winter/", target="_blank")  Winter 2018 (St. George)
+                  |  with
+                  |  
+                  a(href="http://www.cs.toronto.edu/~guerzhoy/", target="_blank") Michael Guerzhoy
 
 
         .section
-          h2 Publications
+
+          a(name="projects")
+            h2 Project Courses
+
+          p.
+            I frequently work with undergraduate computer science students
+            at the University of Toronto Mississauga on research or implementation
+            projects as part of 
+            <a href="https://www.utm.utoronto.ca/math-cs-stats/current-students/independent-study-course" target="_blank"> CSC398/492/493 Independent Study Courses</a>.
+
+          p.
+            Please reach out if you are interested in an independent study (project/reading) course
+            in machine learning, programming languages, and/or computer science
+            education.  Most (but not all) students I worked with have taken a
+            programming languages or machine learning course with me and have done
+            very well.  The project idea can come from either you or me. Here
+            are some research areas I am especially excited about:
+
+          ul
+            li Using machine learning to analyze student code to give "better" feedback
+            li Using the relational programming language <a href="http://minikanren.org/">miniKanren</a> for program synthesis, or improve upon miniKanren
+            li Understanding the types of challenges CS students have with written communication (e.g. short-answer questions on tests)
+
+          p.
+            Project topics are not limited to these ideas, but you should consider
+            finding a different superviser if your project idea is far from
+            my area of expertise.
+
+
+        .section
+          a(name="publications")
+            h2 Publications
 
           h3 Analyzing CS1 Student Code Using Code Embeddings
           p.tight
@@ -293,7 +269,8 @@ html
               a(href="https://arxiv.org/abs/1803.06329") arxiv
               span ]
 
-        .section
+        //
+         .section
           h2 Invited Talks
 
           h3 Using GraphX and Pregel on Browsing History to Discover Purchase Intent
@@ -307,9 +284,9 @@ html
               span ]
 
 
-
         .section
-          h2 Old Projects
+          a(name="old")
+            h2 Old Stuff
 
           p
             b
@@ -342,47 +319,10 @@ html
               handle interactions. The way data transformations
               are handled are interesting here too.
 
-        //
-          p
-            b
-              a(href='http://resume.lisazhang.ca/', target='_blank').
-                My Resume
-            span :&nbsp;
-            span.
-              Slightly more structured overview of what I did.
-
-          p
-            b
-              a(href='http://www.dataincolour.com/', target='_blank').
-                Data In Colour
-            span :&nbsp;
-            span.
-              A now defunct data (visualization) blog.
-              I keep it up there still to keep links alive.
-              I bought both domains
-            span &nbsp;
-            a(href='http://www.dataincolour.com/', target='_blank').
-              dataincolour.com
-            span &nbsp; and &nbsp;
-            a(href='http://www.dataincolor.com/', target='_blank').
-              dataincolor.com
-            span &nbsp;
-            span because I am Canadian.
-
-
-          p
-                b
-                  a(href='http://secret.tinyepiphany.com/', target='_blank').
-                    Secret Comic
-                span :&nbsp;
-                span.
-                  Late 2013, I was deep in a quarter-life crisis and 
-                  drew some comics. Didn't tell anyone about it so keep
-                  it a secret.
-
 
         .section
-          h2 Contact
+          a(name="contact")
+            h2 Contact
 
           p.
             You can email me at lczhang [at] cs [dot] toronto [dot] edu.

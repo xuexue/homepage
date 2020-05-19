@@ -49,6 +49,7 @@ a:hover {
   font-size: 1.5em;
   font-weight: bold;
   margin-bottom: 1.5em;
+  color: black;
 }
 .section h3 {
   font-size: 1.2em;
@@ -59,4 +60,9 @@ a:hover {
 }
 .section .subsection {
   margin-bottom: 20px;
+}
+.section .tab {
+  min-width: 150px;
+  display: inline;
+  clear: none;
 }
