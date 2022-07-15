@@ -1,2 +1,2 @@
-scp *.html *.css *.png *.pdf lisa@dataincolour.com:homepage/
+scp *.html *.css *.png *.pdf lczhang@cs.toronto.edu:public_html/
 
