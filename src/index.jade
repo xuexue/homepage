@@ -53,10 +53,11 @@ html
           a(name="teaching")
             h2 Teaching
 
-          span In the upcoming year 2022-2023, I will be teaching:
-          ul 
-              li CSC324 (fall 2022) with Prof. Louisa Harutyunyan
-              li CSC311 (fall 2022) with Prof. Sonya Allin
+          //
+              span In the upcoming year 2022-2023, I will be teaching:
+              ul 
+                  li CSC324 (fall 2022) with Prof. Louisa Harutyunyan
+                  li CSC311 (fall 2022) with Prof. Sonya Allin
 
           h3 Past courses and archived course websites
 
@@ -64,9 +65,29 @@ html
             li CSC311 Introduction to Machine Learning
               ul
                 li
+                  a(href="https://q.utoronto.ca/courses/274049", target="_blank") Fall 2022 (UTM)
+                  |  with Sonya Allin
+              ul
+                li
                   a(href="https://q.utoronto.ca/courses/231562", target="_blank") Fall 2021 (UTM)
                   |  with 
                   a(href="https://www.cs.toronto.edu/~bonner/", target="_blank") Anthony Bonner
+            li CSC324 Programming Languages
+              ul
+                li
+                  a(href="https://q.utoronto.ca/courses/274086", target="_blank") Fall 2022 (UTM)
+                li
+                  a(href="https://q.utoronto.ca/courses/231617", target="_blank") Fall 2021 (UTM)
+
+                li
+                  a(href="https://q.utoronto.ca/courses/176050", target="_blank") Fall 2020 (UTM)
+                  |  with 
+                  a(href="https://www.utm.utoronto.ca/math-cs-stats/people/andreas-bergen", target="_blank") Andi Bergen
+                li
+                  a(href="https://www.cs.toronto.edu/~lczhang/324/", target="_blank") Fall 2019 (UTM)
+                li Fall 2018 (UTM) with
+                   |  
+                   a(href="http://www.danielzingaro.com/", target="_blank") Daniel Zingaro
 
             li CSC263 Data Structure and Analysis
               ul
@@ -104,20 +125,6 @@ html
                   a(href="https://www.cs.toronto.edu/~lczhang/338/", target="_blank") Winter 2020 (UTM)
                 li 
                   a(href="https://www.cs.toronto.edu/~lczhang/csc338_20191/", target="_blank") Winter 2019 (UTM)
-            li CSC324 Programming Languages
-              ul
-                li
-                  a(href="https://q.utoronto.ca/courses/231617", target="_blank") Fall 2021 (UTM)
-
-                li
-                  a(href="https://q.utoronto.ca/courses/176050", target="_blank") Fall 2020 (UTM)
-                  |  with 
-                  a(href="https://www.utm.utoronto.ca/math-cs-stats/people/andreas-bergen", target="_blank") Andi Bergen
-                li
-                  a(href="https://www.cs.toronto.edu/~lczhang/324/", target="_blank") Fall 2019 (UTM)
-                li Fall 2018 (UTM) with
-                   |  
-                   a(href="http://www.danielzingaro.com/", target="_blank") Daniel Zingaro
             li CSC321 Neural Networks and Machine Learning
               ul
                 li
@@ -209,6 +216,16 @@ html
             h2 Publications
 
           h3 Publications in CS/AI Education
+
+          div.pub 
+            |   
+            span.title Embedding and Scaling Writing Instruction Across First- and Second-Year Computer Science Courses
+            |  
+            span.author Lisa Zhang, Bogdan Simion, Michael Kaler, Amna Liaqat, Daniel Dick, Andi Bergen, Michael Miljanovic, Andrew Petersen
+            |  
+            span.venue SIGCSE 2023
+            |  
+            span (to appear)
 
           div.pub 
             |   
@@ -397,7 +414,10 @@ html
             |   
             span.venue miniKanren Workshop 2022
             |  
-            span  (to appear)
+            span [
+            a(href="https://icfp22.sigplan.org/details/minikanren-2022-papers/4/Fail-Fast-and-Profile-On-Towards-a-miniKanren-Profiler") paper
+            span ]  
+
 
 
           div.pub
