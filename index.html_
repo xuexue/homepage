@@ -1,0 +1,195 @@
+<!DOCTYPE html><html><head><link href="main.css" rel="stylesheet"><link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"></head><body><div class="container"><div class="content">
+
+<div class="section"><h1>This is the homepage of Lisa Zhang.</h1><div class="tab"> <a href="#teaching">Teaching</a></div><div class="tab"> .</div><div class="tab"> <a href="#projects">Undergraduate Research/Project Courses</a></div><div class="tab"> .</div><div class="tab"> <a href="#publications">Publications</a></div><div class="tab"> .</div><div class="tab"> <a href="#contact">Contact</a></div><div class="tab"> .</div><div class="tab"> <a href="lisazhang_cv_20249.pdf">CV</a></div></div>
+
+<h2>Hi!</h2>
+<span style="float:right"><img src="lisa.png" width="170px" style="margin:0px 0px 10px 10px"></span><p>
+I am currently an Assistant Professor, Teaching Stream at the
+Department of Mathematical and Computational Sciences,
+University of Toronto Mississauga.
+My office is located at DH3078.</p>
+
+<p>
+I held many roles during my career: startup founder,
+data scientist, machine learning researcher, pure math student,
+and now a computer science educator. I typically teach the
+machine learning and programming languages courses at UTM, and
+coordinate the Writing Across the Curriculum (WAC) 
+initiative for our computer science students.
+I am passionate about machine learning, computer science education, 
+writing, and still have a soft spot for great data visualization
+and nerdy humour.
+</p>
+
+<p>
+I am a member of the <a href="https://uoftcsed.github.io/"> CS Education Research Group</a> at the University of Toronto.
+My current research interest is in the teaching and learning of
+machine learning involving a range of learners and goals.
+I do not supervise graduate students. However, I frequently work with undergraduate students
+on Computer Science Education related projects.
+</p>
+
+<div style="background-color:#dce9f3; padding:1em;">
+<p><b>News:</b>
+I will be on sabbatical in the 2025-2026 academic year. Besides grant-funded work (RA postings to come soon),
+my work with undergraduate students will be limited during this time.
+</p>
+</div>
+
+<div class="section"><a name="awards"><h2>Awards</h2></a>
+ <div class="pub">
+   Outstanding Reviewer Award, SIGCSE (2025) </div>
+ <div class="pub">
+   UTM Teaching Excellence Award for Junior Faculty (2024) </div>
+ <div class="pub">
+  Koli Calling Superb Reviewer (2024) 
+ </div>
+ <div class="pub">
+ Best Paper, Experience Reports and Tools Track, SIGCSE (2023)
+ </div>
+ <div class="pub">
+ EAAI New and Future AI Educator Award (2021) 
+ </div>
+ <div class="pub">
+ Top 10% of Reviewers, Neural Information Processing Systems (2019)
+ </div>
+</div>
+
+<div class="section"><a name="teaching"><h2>Teaching</h2></a>
+<!--
+<p>Courses next term...</p>
+-->
+
+<h3>Past courses and archived course websites</h3>
+
+<ul>
+    <li>UTM192 utmONE first-year seminar course on AI Safety and Societal Impact
+        <ul><li><a href="https://q.utoronto.ca/courses/376306">Winter 2025 (UTM)</a></li></ul>
+    </li>
+    <li>CSC311 Introduction to Machine Learning
+        <ul>
+          <li><a href="https://q.utoronto.ca/courses/373417" target="_blank">Winter 2025 (UTM)</a> with Anthony Bonner, Bilal Taha, Marina Tawfik, Mai Ha Vu</li>
+          <li><a href="https://q.utoronto.ca/courses/329588" target="_blank">Winter 2024 (UTM)</a> with Anthony Bonner, Bilal Taha, Dev Gokal</li>
+          <li><a href="https://q.utoronto.ca/courses/274049" target="_blank">Fall 2022 (UTM)</a> with Sonya Allin</li>
+          <li><a href="https://q.utoronto.ca/courses/231562" target="_blank">Fall 2021 (UTM)</a> with <a href="https://www.cs.toronto.edu/~bonner/" target="_blank">Anthony Bonner</a></li>
+        </ul>
+    </li>
+    <li>CSC324 Programming Languages
+        <ul>
+            <li><a href="https://q.utoronto.ca/courses/366542" target="_blank">Fall 2024 (UTM)</a></li>
+            <li><a href="https://q.utoronto.ca/courses/321337" target="_blank">Fall 2023 (UTM)</a></li>
+            <li><a href="https://q.utoronto.ca/courses/274086" target="_blank">Fall 2022 (UTM)</a></li>
+            <li><a href="https://q.utoronto.ca/courses/231617" target="_blank">Fall 2021 (UTM)</a></li>
+            <li><a href="https://q.utoronto.ca/courses/176050" target="_blank">Fall 2020 (UTM)</a> with <a href="https://www.utm.utoronto.ca/math-cs-stats/people/andreas-bergen" target="_blank">Andi Bergen</a></li>
+            <li><a href="https://www.cs.toronto.edu/~lczhang/324/" target="_blank">Fall 2019 (UTM)</a></li>
+            <li>Fall 2018 (UTM) with
+                 <a href="http://www.danielzingaro.com/" target="_blank">Daniel Zingaro</a></li>
+        </ul>
+    </li>
+    <li>CSC263 Data Structure and Analysis<ul><li><a href="https://q.utoronto.ca/courses/244403" target="_blank">Winter 2022 (UTM)</a> with <a href="https://www.tzhu.space/" target="_blank">Tingting Zhu</a> and<a href="https://samarsabie.com/" target="_blank">Samar Sabie</a></li><li><a href="https://q.utoronto.ca/courses/210706" target="_blank">Winter 2021 (UTM)</a> with <a href="https://sachdevasushant.github.io/" target="_blank">Sushant Sachdeva</a> and<a href="http://michaelmiljanovic.ca/" target="_blank">Michael Miljanovic</a></li></ul></li><li>CSC413 Neural Networks and Deep Learning<ul><li><a href="https://q.utoronto.ca/courses/244932" target="_blank">Winter 2022 (UTM)</a> with <a href="http://www.cs.toronto.edu/~florian/" target="_blank">Florian Shkurti</a></li><li><a href="https://q.utoronto.ca/courses/210366" target="_blank">Winter 2021 (UTM)</a> with <a href="http://www.cs.toronto.edu/~florian/" target="_blank">Florian Shkurti</a></li></ul></li><li>CSC338 Numerical Methods<ul><li><a href="https://q.utoronto.ca/courses/210780" target="_blank">Winter 2021 (UTM)</a></li><li><a href="https://www.cs.toronto.edu/~lczhang/338/" target="_blank">Winter 2020 (UTM)</a></li><li> <a href="https://www.cs.toronto.edu/~lczhang/csc338_20191/" target="_blank">Winter 2019 (UTM)</a></li></ul></li><li>CSC321 Neural Networks and Machine Learning<ul><li><a href="https://www.cs.toronto.edu/~lczhang/321/" target="_blank">Winter 2020 (UTM)</a> with Pouria Fewzee</li></ul></li><li>CSC290 Communication Skills for Computer Scientists<ul><li><a href="https://q.utoronto.ca/courses/176011" target="_blank">Fall 2020 (UTM)</a></li><li><a href="https://www.cs.toronto.edu/~lczhang/290/" target="_blank">Fall 2019 (UTM)</a></li><li><a href="https://www.cs.toronto.edu/~lczhang/csc290_20191/" target="_blank">Winter 2019 (UTM)</a></li><li><a href="https://www.cs.toronto.edu/~lczhang/csc290_20189/" target="_blank">Fall 2018 (UTM)</a></li></ul></li><li>APS360 Fundamentals of AI<ul><li><a href="https://www.cs.toronto.edu/~lczhang/360/" target="_blank">Summer 2019 (St. George)</a></li><li><a href="https://www.cs.toronto.edu/~lczhang/aps360_20191/" target="_blank">Winter 2019 (St. George)</a></li></ul></li><li>CSC108 Introduction to Programming<ul><li>Summer 2018 (St. George) with Mark Kazakevich</li></ul></li><li>CSC411/2515 Introduction to Machine Learning<ul><li> <a href="http://www.teach.cs.toronto.edu/~csc411h/winter/" target="_blank"> Winter 2018 (St. George)</a> with
+                  <a href="http://www.cs.toronto.edu/~guerzhoy/" target="_blank">Michael Guerzhoy</a></li></ul></li></ul>
+
+</div>
+
+<div class="section"><a name="publications"><h2>Publications</h2></a>
+
+ <h3>Publications in AI/ML Education</h3>
+
+ <div class="pub">
+  <span class="title">Student Perspectives on the Challenges in Machine Learning</span>
+   <span class="author">Naaz Sibia, Amber Richardson, Alice Gao, Andrew Petersen, Lisa Zhang</span> <span class="venue">ITiCSE 2025</span> 
+<span>*To appear</span>
+</div>
+
+ <div class="pub">
+  <span class="title">Comparing Artificial Intelligence Curricula in Canadian and US Universities</span>
+   <span class="author"> Rose Niousha, Lexie Jingruo Guo, Rick Kaifeng Li, Narges Norouzi, Lisa Zhang</span> <span class="venue">EAAI 2025</span> 
+<span>[</span><a href="https://app.underline.io/downloadable_materials/lectures/114242/paper">paper</a><span>] </span></div>
+
+ <div class="pub">   <span class="title">Mapping the Pathways: A Comparative Analysis of AI/ML/DS Prerequisite Structures in R1 Institutions in the United States</span>
+   <span class="author">Rose Niousha, Dev Ahluwalia, Michael Wu, Lisa Zhang, Narges Norouzi</span> <span class="venue">Frontiers In Education 2024</span> 
+<span>[</span><a href="https://www.computer.org/csdl/proceedings-article/fie/2024/10893290/24EnraRzTAQ">paper</a><span>] </span></div>
+
+ <div class="pub">   <span class="title">Common Errors in Machine Learning Projects: A Second Look</span> <span class="author">Renato Zimmermann, Sonya Allin, Lisa Zhang</span> <span class="venue">Koli Calling 2023</span>   <span>[</span><a href="https://dl.acm.org/doi/10.1145/3631802.3631808">paper</a><span>] </span></div>
+
+<div class="pub"> 
+  <span class="title">Just-In-Time Prerequisite Review for a Machine Learning Course</span> <span class="author">Lisa Zhang, Sonya Allin</span> <span class="venue">The Western Canadian Conference on Computing Education 2023</span> <span>[</span><a href="https://www.youtube.com/watch?v=idF76UjiDt8&amp;feature=youtu.be&amp;ab_channel=EdKnorr">video</a><span>]</span></div>
+
+ <h3>Publications in CS Education</h3>
+
+ <div class="pub">
+  <span class="title">Show Me the Mastery Learning! Obstacles to Adoption and Opportunities for New Solutions</span>
+   <span class="author">Claudio Álvarez Gómez, Nickolas Falkner, Päivi Kinnunen, Jaromir Savelka, Lisa Zhang</span> <span class="venue">ITiCSE 2025</span> 
+<span>*To appear</span>
+</div>
+
+<div class="pub">   <span class="title">Early Computer Science Students' Perspectives Towards The Importance Of Writing</span> <span class="author">Rutwa Engineer, Naaz Sibia, Michael Kaler, Bogdan Simion, Lisa Zhang</span> <span class="venue">ITiCSE 2024</span>   <span>[</span><a href="https://dl.acm.org/doi/10.1145/3649217.3653576">paper</a><span>] </span></div>
+
+<div class="pub">   <span class="title">Decomposed Prompting to Answer Questions on a Course Discussion Board</span> <span class="author">Brandon Jaipersaud, Paul Zhang, Jimmy Ba, Andrew Petersen, Lisa Zhang, Michael R. Zhang</span> <span class="venue">International Conference on Artificial Intelligence in Education 2023</span>   <span>[</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-36336-8_33">paper</a><span>]</span></div>
+
+<div class="pub">   <span class="title">"I Am Not Enough": Impostor Phenomenon Experiences of University Students</span> <span class="author">Angela Zavaleta Bernuy, Anna Ly, Brian Harrington, Michael Liut, Sadia Sharmin, Lisa Zhang, Andrew Petersen</span> <span class="venue">Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education</span>   <span>[</span><a href="https://dl.acm.org/doi/10.1145/3587102.3588779">paper</a><span>] </span></div>
+
+<div class="pub"> 
+  <span class="title">Embedding and Scaling Writing Instruction Across First- and Second-Year Computer Science Courses</span> <span class="author">Lisa Zhang, Bogdan Simion, Michael Kaler, Amna Liaqat, Daniel Dick, Andi Bergen, Michael Miljanovic, Andrew Petersen</span> <span class="venue">Proceedings of the 54th ACM Technical Symposium on Computer Science Education (2023)</span> <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3545945.3569729">paper</a><span>]</span> <b>Best Paper - Experience Reports and Tools Track</b></div>
+
+<div class="pub"> 
+  <span class="title">Exploring Common Writing Issues in Upper-Year Computer Science</span> <span class="author">Rehmat Munir, Francesco Strafforello, Niveditha Kani, Michael Kaler, Bogdan Simion, Lisa Zhang</span> <span class="venue">Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (2022)</span> <span>[</span><a href="https://dl.acm.org/doi/10.1145/3478431.3499335">paper</a><span>]</span></div>
+
+<div class="pub"> 
+  <span class="title">Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing</span> <span class="author">Angela Zavaleta Bernuy, Anna Ly, Brian Harrington, Michael Liut, Andrew Petersen, Sadia Sharmin, Lisa Zhang</span> <span class="venue">Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (2022)</span> <span>[</span><a href="https://dl.acm.org/doi/10.1145/3478431.3499282">paper</a><span>]</span></div>
+
+<div class="pub">  <span class="title">Experience Report: Mini Guest Lectures in a CS1 Course via Video Conferencing</span> <span class="author">Lisa Zhang, Michelle Craig, Mark Kazakevich, Joseph Jay Williams</span> <span class="venue">CompEd 2019</span>  <span>[</span><a href="https://dl.acm.org/citation.cfm?id=3309511">paper</a><span>]</span></div>
+
+ <h3>Model AI Assignments</h3>
+
+ <div class="pub">
+  <span class="title">Model AI Assignment: Differential Privacy with MedMNIST</span>
+   <span class="author"> Lisa Zhang, Sonya Allin, Mahdi Haghifam, Michael Pawliuk, Rutwa Engineer, Florian Shkurti</span> <span class="venue">EAAI 2025</span> 
+<span>[</span><a href="http://modelai.gettysburg.edu/2025/privacy/">repository</a><span>] </span></div>
+
+ <div class="pub">
+  <span class="title">Model AI Assignment: Model Building and Risk Analysis with Health Survey Data</span>
+   <span class="author">Sonya Allin, Lisa Zhang, Mustafa Haiderbhai, Carolyn Quinlan, Rutwa Engineer, Michael Pawliuk</span> <span class="venue">EAAI 2025</span> 
+<span>[</span><a href="http://modelai.gettysburg.edu/2025/health/">repository</a><span>] </span></div>
+
+<div class="pub"> 
+  <span class="title">AI Education Matters: Text Denoising Autoencoder for News Headlines</span> <span class="author">Lisa Zhang, Pouria Fewzee, Charbel Feghali</span> <span class="venue">AI Matters, Volume 7, Issue 1. September 2021</span> <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3511322.3511327">paper</a><span>]</span></div>
+
+<div class="pub"> 
+  <span class="title">Model AI Assignment: Text Denoising Autoencoder for News Headlines</span> <span class="author">Lisa Zhang, Pouria Fewzee</span>  <span class="venue">EAAI 2021</span> <span>[</span><a href="http://modelai.gettysburg.edu/2021/headlines/">repository</a><span>]</span><span>[</span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17850">article</a><span>] </span></div>
+
+<div class="pub"> 
+  <span class="title">Model AI Assignment: Gesture Recognition using Convolutional Neural Networks</span> <span class="author">Lisa Zhang, Bibin Sebastian</span> <span class="venue">EAAI 2020</span> <span>[</span><a href="http://modelai.gettysburg.edu/2020/gesture/">repository</a><span>] </span><span>[</span><a href="https://ojs.aaai.org//index.php/AAAI/article/view/7072">article</a><span>] </span></div>
+
+<div class="pub"> 
+  <span class="title">AI Education Matters: Building a Fake News Detector</span> <span class="author">Michael Guerzhoy, Lisa Zhang, Georgy Noarov</span> <span class="venue">AI Matters, Volume 5, Issue 3. September 2019</span> <span>[</span><a href="http://sigai.acm.org/static/aimatters/5-3/AIMatters-5-3-05-Guerzhoy.pdf">paper</a><span>]</span></div>
+
+<div class="pub"> <span class="title">Model AI Assignment: Building a Fake News Detector</span> <span class="author">Michael Guerzhoy, Lisa Zhang</span>  <span class="venue">EAAI 2019</span> <span>[</span><a href="http://modelai.gettysburg.edu/2019/fakenews/">repository</a><span>] </span><span>[ </span><a href="https://ojs.aaai.org//index.php/AAAI/article/view/5044">article</a><span>]</span></div>
+
+<h3>Posters/Workshops in CS/AI Education</h3>
+
+<div class="pub">   <span class="title">Classifying Course Discussion Board Questions using LLMs</span> <span class="author">Paul Zhang, Brandon Jaipersaud, Jimmy Ba, Andrew Petersen, Lisa Zhang, Michael Zhang</span> <span class="venue">ITiCSE 2023 Poster</span>   <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3587103.3594202">paper</a><span>] </span></div>
+
+<div class="pub">   <span class="title">Student Reactions to Bots on Course Q&amp;A Platform</span> <span class="author">Yu-Chieh Wu, Andrew Petersen, Lisa Zhang</span> <span class="venue">ITiCSE 2022 Poster</span>   <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3502717.3532147">paper</a><span>] </span></div><div class="pub">   <span class="title">Using Deep Learning to Localize Errors in Student Code Submissions</span> <span class="author">Shion Fujimori, Mohamed Harmanani, Owais Siddiqui, Lisa Zhang</span> <span class="venue">SIGCSE 2022 Technical Symposium Poster</span>   <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3478432.3499048">paper</a><span>] </span></div><div class="pub">   <span class="title">CS1 Programming Feedback with Bug Localization.</span> <span class="author">Lucas Roy, Haotian Yang, Lisa Zhang</span> <span class="venue">The 6th SPLICE Workshop at L@S (2020)</span>   <span>[</span><a href="https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_3.pdf">paper</a><span>] </span></div><div class="pub">  <span class="title">Recommending Personalized Review Questions using Collaborative Filtering</span> <span class="author">Zain Kazmi, Wafiqah Raisa, Harsh Jhunjhunwala, Lisa Zhang</span> <span class="venue">The 6th SPLICE Workshop at L@S (2020)</span>   <span>[</span><a href="https://cssplice.github.io/LAS20/proc/SPLICE_2020_LS_paper_2.pdf">paper</a><span>] </span></div><div class="pub">   <span class="title">Analyzing CS1 Student Code Using Code Embeddings</span> <span class="author">Robert Bazzocchi, Micah Flemming, Lisa Zhang</span> <span class="venue">SIGCSE 2020 Technical Symposium Poster</span>  <span>[</span><a href="https://dl.acm.org/doi/abs/10.1145/3328778.3372601">paper</a><span>] [</span><a href="SIGCSEPoster2020.pdf">poster</a><span>]</span></div><h3>Programing Languages Workshop</h3><div class="pub">  <span class="title">Fail Fast and Profile on: Towards a miniKanren Profiler</span> <span class="author">Sloan Chochinov, Daksh Malhotra, Gregory Rosenblatt, Matthew Might, Lisa Zhang.</span>  <span class="venue">miniKanren Workshop 2022</span> <span>[</span><a href="https://icfp22.sigplan.org/details/minikanren-2022-papers/4/Fail-Fast-and-Profile-On-Towards-a-miniKanren-Profiler">paper</a><span>]  </span></div><div class="pub">  <span class="title">Universal Quantification and Implication in miniKanren.</span> <span class="author">Ende Jin, Gregory Rosenblatt, Matthew Might, Lisa Zhang.</span>  <span class="venue">miniKanren Workshop 2021</span> <span>[</span><a href="https://icfp21.sigplan.org/details/minikanren-2021-papers/2/Universal-Quantification-and-Implication-in-miniKanren">paper and talk</a><span>]  </span></div><div class="pub">  <span class="title">Relational Floating-Point Arithmetics.</span> <span class="author">Lucas Sandre, Malaika Zaidi, Lisa Zhang</span>  <span class="venue">miniKanren Workshop 2021</span> <span>[</span><a href="https://icfp21.sigplan.org/details/minikanren-2021-papers/3/Relational-Floating-Point-Arithmetic">paper and talk</a><span>]  </span></div><div class="pub">  <span class="title">A Relational Interpreter for Synthesizing JavaScript</span> <span class="author">Artem Chirkov, Gregory Rosenblatt, Matthew Might, Lisa Zhang</span>  <span class="venue">miniKanren Workshop 2020</span> <span>[</span><a href="https://icfp20.sigplan.org/details/minikanren-2020-papers/1/A-Relational-Interpreter-for-Synthesizing-JavaScript">paper</a><span>]  </span><span>[</span><a href="https://www.youtube.com/watch?v=m1ivKijUN-c&amp;list=PLyrlk8Xaylp5NNpM1pEThwT_EWAHXEmYN&amp;index=11&amp;ab_channel=ACMSIGPLAN">talk</a><span>] </span></div><div class="pub">  <span class="title">First-order miniKanren representation: Great for tooling and search</span> <span class="author">Gregory Rosenblatt, Lisa Zhang, William E. Byrd, Matthew Might</span> <span class="venue">miniKanren Workshop 2019</span> <span>[</span><a href="http://minikanren.org/workshop/2019/minikanren19-final2.pdf">paper</a><span>]</span></div><h3>Machine Learning</h3><div class="pub"> <span class="title">Neural Guided Constraint Logic Programming for Program Synthesis</span> <span class="author">Lisa Zhang, Gregory Rosenblatt, Ethan Fetaya, Renjie Liao, William E. Byrd, Matthew Might, Raquel Urtasun, Richard Zemel</span>  <span class="venue">NeurIPS 2018</span> <span>[</span><a href="https://papers.nips.cc/paper/7445-neural-guided-constraint-logic-programming-for-program-synthesis">paper</a><span>]</span> <span>[</span><a href="https://github.com/xuexue/neural-guided-minikanren">github</a><span>]</span> <span>[</span><a href="https://openreview.net/forum?id=HJIHtIJvz">workshop</a><span>]</span></div><!--<h3>MSC Thesis</h3><p class="tight"><span>Leveraging Constraint Logic Programming for Neural Network Guided Program Synthesis</span><br><span>Supervisors: Richard Zemel, Raquel Urtasun</span><br><span>[</span><a href="http://lisazhang.ca/msc_thesis.pdf">paper</a>]</p>--><div class="pub"> <span class="title">Reviving and Improving Recurrent Back-Propagation</span> <span class="author">Renjie Liao, Yuwen Xiong, Ethan Fetaya, Lisa Zhang, KiJung Yoon, Xaq Pitkow, Raquel Urtasun, Richard Zemel</span>  <span class="venue">ICML 2018</span> <span>[</span><a href="https://arxiv.org/abs/1803.06396">arxiv</a><span>]</span></div><div class="pub"> <span class="title">Inference in probabilistic graphical models by Graph Neural Networks</span> <span class="author">KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow</span>  <span class="venue">ICLR Workshop Track 2018</span> <span>[</span><a href="https://openreview.net/forum?id=rkN1pF1vz">paper</a><span>]</span></div><div class="pub"> <span class="title">Learning deep structured active contours end-to-end</span> <span class="author">Diego Marcos, Devis Tuia, Benjamin Kellenberger, Lisa Zhang, Min Bai, Renjie Liao, Raquel Urtasun</span>  <span class="venue">CVPR 2018</span> <span>[</span><a href="https://arxiv.org/abs/1803.06329">arxiv</a><span>]</span></div></div>
+
+
+<div class="section"><a name="projects"><h2>Undergraduate Research/Project Courses</h2></a>
+    <p>I frequently work with undergraduate computer science students
+       at the University of Toronto Mississauga on research or implementation
+        projects as part of 
+        <a href="https://www.utm.utoronto.ca/math-cs-stats/current-students/independent-study-course" target="_blank"> CSC398/492/493 Independent Study Courses</a>. 
+        However, I will be on sabbatical for the 2025-2026 academic year and will not be supervising new independent studies students.
+    </p>
+
+</div>
+
+
+
+
+<div class="section"><a name="contact"><h2>Contact</h2></a><p>You can email me at lczhang [at] cs [dot] toronto [dot] edu.
+If you are emailing me regarding a course, please include the
+course code in the email subject. Please mention if you are a
+current or past student.
+</p></div>
+
+</div></div></body></html>
