@@ -5,6 +5,7 @@
     "type": "git"
   },
   "dependencies": {
+    "pug": "^3.0.2"
   },
   "devDependencies": {
     "coffee-script": "~1.6.3",
