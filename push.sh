@@ -1,2 +1,2 @@
-scp *.html *.css *.png *.pdf lczhang@cs.toronto.edu:public_html/
+scp *.html *.css *.jpeg *.pdf lczhang@cs.toronto.edu:public_html/
 
